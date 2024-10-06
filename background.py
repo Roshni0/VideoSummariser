@@ -1,3 +1,4 @@
+# This code identifies 3-5 key frames
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
